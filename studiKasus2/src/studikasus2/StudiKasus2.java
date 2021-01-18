@@ -1,6 +1,6 @@
 /*
  *Fiskah Syela Aisy Aulia 
- * Saya akan membuat program untuk 
+ * Saya akan membuat program untuk menyimpan tabungan pribadi
  */
 package studikasus2;
 
