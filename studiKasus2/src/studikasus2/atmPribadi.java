@@ -35,7 +35,7 @@ public class atmPribadi {
         tabunganAwal -= mengambil;
         System.out.println("Tabungan Anda : " +" Rp "+tabunganAwal );
     }
-    
+    //Method nonvoid untuk return value tabungan awal
     int TabunganAwal() {
         return tabunganAwal;
     }
